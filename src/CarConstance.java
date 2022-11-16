@@ -3,6 +3,4 @@ public enum CarConstance {
     LIGHTS,
     COLOUR,
     BRAND_NAME
-
-
 }
